@@ -1,0 +1,25 @@
+{
+  "name": "fsm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azl397985856/fsm.git"
+  },
+  "keywords": [],
+  "author": "lucifer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azl397985856/fsm/issues"
+  },
+  "homepage": "https://github.com/azl397985856/fsm#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
